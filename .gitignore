@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# PyQt
+*.ui.autosave
+
+# Distribution
+dist/
+build/
+*.exe
+*.spec
+
+# Virtual env
+venv/
+.venv/
